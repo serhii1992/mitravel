@@ -1,0 +1,65 @@
+[33mcommit 3f079b095acbf309fa33c0094f3ad9d2d5753b11[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Serhii <11151992ser@gmail.com>
+Date:   Sat Jul 17 18:24:33 2021 +0300
+
+    fix bag
+
+ create mode 100644 .editorconfig
+ create mode 100644 css/_fonts.css
+ create mode 100644 css/_global.css
+ create mode 100644 css/_normalize.css
+ create mode 100644 css/_overall.css
+ create mode 100644 css/_variables.css
+ create mode 100644 css/_vendor.css
+ create mode 100644 css/components/_become.css
+ create mode 100644 css/components/_featured-videos.css
+ create mode 100644 css/components/_featured.css
+ create mode 100644 css/components/_header.css
+ create mode 100644 css/components/_inspirations.css
+ create mode 100644 css/components/_intro.css
+ create mode 100644 css/components/_newsletter.css
+ create mode 100644 css/components/_slider.css
+ create mode 100644 css/style.css
+ create mode 100644 fonts/HelveticaNeue-Bold.woff
+ create mode 100644 fonts/HelveticaNeue-Bold.woff2
+ create mode 100644 fonts/PlayfairDisplay-Regular.woff
+ create mode 100644 fonts/PlayfairDisplay-Regular.woff2
+ create mode 100644 fonts/SFCompactText-Light.woff
+ create mode 100644 fonts/SFCompactText-Light.woff2
+ create mode 100644 fonts/SFCompactText-Regular.woff
+ create mode 100644 fonts/SFCompactText-Regular.woff2
+ create mode 100644 fonts/SFProDisplay-Bold.woff
+ create mode 100644 fonts/SFProDisplay-Bold.woff2
+ create mode 100644 fonts/SFProDisplay-Heavy.woff
+ create mode 100644 fonts/SFProDisplay-Heavy.woff2
+ create mode 100644 fonts/SFProDisplay-Medium.woff
+ create mode 100644 fonts/SFProDisplay-Medium.woff2
+ create mode 100644 fonts/SFProText-Regular.woff2
+ create mode 100644 img/Newsletter-bg.jpg
+ create mode 100644 img/become/1.jpg
+ create mode 100644 img/become/2.jpg
+ create mode 100644 img/become/3.jpg
+ create mode 100644 img/become/4.jpg
+ create mode 100644 img/fb.svg
+ create mode 100644 img/featured/ava-1.jpg
+ create mode 100644 img/featured/ava-2.jpg
+ create mode 100644 img/featured/ava-3.jpg
+ create mode 100644 img/featured/ava-4.jpg
+ create mode 100644 img/featured/bg.jpg
+ create mode 100644 img/inspirations/1.jpg
+ create mode 100644 img/inspirations/2.jpg
+ create mode 100644 img/inspirations/3.jpg
+ create mode 100644 img/inspirations/4.jpg
+ create mode 100644 img/inspirations/5.jpg
+ create mode 100644 img/inspirations/6.jpg
+ create mode 100644 img/inspirations/7.png
+ create mode 100644 img/intro-bg.jpg
+ create mode 100644 img/search-icon.svg
+ create mode 100644 img/slide-1.jpg
+ create mode 100644 img/slider/1.jpg
+ create mode 100644 img/tw.svg
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 libs/.editorconfig
+ create mode 100644 libs/swiper.css
+ create mode 100644 libs/swiper.js
