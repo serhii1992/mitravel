@@ -1,0 +1,17 @@
+.featured-videos {
+  padding: 149px 0 140px 0;
+}
+
+.featured-videos__title {
+  text-align: center;
+}
+
+.featured-videos__text {
+  font-family: 'SFCompactText';
+  font-size: 16px;
+	text-align: center;
+  line-height: 1.5;
+  color:  #788692;
+  max-width: 700px;
+  margin: 23px auto 82px;
+}

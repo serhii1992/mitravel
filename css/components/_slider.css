@@ -1,0 +1,34 @@
+.swiper-container {
+  overflow: hidden;
+  width: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+overflow: hidden;
+  border-radius: 8px;
+  /* min-height: 550px; */
+  width: 890px;
+  height: 551px;
+  transition: transform .3s linear;
+}
+
+.swiper-slide-active {
+  transform: scaleX(1.16) scaleY(1.24);
+}
+
+
+
+.swiper-wrapper {
+  padding: 66.12px 0;
+  align-items: center;
+}
+
+.swiper-slide img {
+  overflow: hidden;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  object-fit: cover;
+}

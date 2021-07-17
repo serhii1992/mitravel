@@ -1,0 +1,58 @@
+.inspirations {
+  margin: 0 0 200px 0;
+}
+
+.inspirations__title {
+  margin: 0 0 26px 0;
+  text-align: center;
+}
+
+
+.inspirations__text {
+  font-family: "SFCompactText", sans-serif;
+  text-align: center;
+  max-width: 650px;
+  color: #788692;
+  margin: 0 auto;
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 77px;
+}
+.inspirations__inner-container{
+	margin: 0 -16px;
+}
+
+.inspirations__cart {
+  /* width: 100%; */
+  margin: 0 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+
+.inspirations__img-wrapper {
+	position: relative;
+  width: calc(33.33% - 32px);
+  height: auto;
+  margin: 16px;
+  border-radius: 10px;
+  overflow: hidden;
+
+}
+
+.inspirations__img-wrapper img {
+  display: block;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.inspirations__img-wrapper--big {
+  width: calc(66.67% - 32px);
+}
+
+.cart-list__info{
+	position: absolute;
+}
